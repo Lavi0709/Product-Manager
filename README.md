@@ -1,7 +1,5 @@
 # Product Manager
 
-React + Vite demo (plain CSS).  
-
 ## Run
 
 ```bash
